@@ -1,0 +1,14 @@
+.store_message{
+  background: #8E2812;
+  display: flex;
+  justify-content: center;
+  height: 3.3rem;
+}
+.store_message h1{
+  color: #fff;
+  font-size: 1.3rem;
+  font-family: var(--font-body-family);
+}
+.gradient {
+    border: none;
+}
